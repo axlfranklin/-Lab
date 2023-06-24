@@ -59,7 +59,7 @@ Graylog realizando o registro de logs do servidor:  <br/>
 <img src="https://i.imgur.com/qPNxPsB.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Aplicação hospedada no servidor pronta para serem realizado ataques:  <br/>
+Aplicação hospedada no servidor pronta para serem realizado os ataques:  <br/>
 <img src="https://i.imgur.com/9GeQ5yl.png"/>
 </p>
 
