@@ -25,7 +25,7 @@ testar a vulnerabilidade
 
 <h2>Ambientes Usados </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b>
 - <b>Server(Debian 64-bits) </b>
 - <b>Graylog(Debian 64-bits) </b>
 - <b>WAF(Debian 64-bits) </b>
