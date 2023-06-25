@@ -61,6 +61,9 @@ Graylog realizando o registro de logs do servidor:  <br/>
 <br />
 Aplicação hospedada no servidor pronta para serem realizado os ataques:  <br/>
 <img src="https://i.imgur.com/9GeQ5yl.png"/>
+
+Máquinas prontas e emuladas para cenário fícticio de ataque:  <br/>
+<img src="https://i.imgur.com/YCePYaR.jpg"/>
 </p>
 
 <!--
